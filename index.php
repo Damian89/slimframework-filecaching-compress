@@ -14,9 +14,6 @@ require 'helper/Helper.class.php';
 
 $app = new \Slim\Slim(
 		array(
-			'mode' => 'development',
-            'log.enable' => true,
-            'debug' => true,
             'cache_max_time' => '60',
             'cache.not_allowed' =>  array('/no-cache/'),
             'cache_dir' => './cache/',
