@@ -1,5 +1,5 @@
-File Caching with HTML Output (Middleware) for Slim Framework v2
-
+<h1>File Caching with HTML Output (Middleware) for Slim Framework v2</h1>
+Any questions? Just ask using my mail: <a href="http://damianschwyrz.de">damianschwyrz.de</a>
 #1 Add:
 <pre>require 'middleware/PageCaching.class.php';
 require 'middleware/CompressHTML.class.php';</pre>
