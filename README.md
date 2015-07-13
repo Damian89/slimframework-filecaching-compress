@@ -14,4 +14,4 @@ require 'middleware/CompressHTML.class.php';</pre>
 <pre>$app->add( new \PageCaching() );  
 $app->add( new \CompressHTML() );</pre>
 
-FileCaching and Compress Middleware is used in <a target="_blank" href="https://fernseher-kaufberatung.com">Fernseher Kaufberatung</a>
+FileCaching and Compress Middleware is used in <a target="_blank" href="https://fernseher-kaufberatung.com">Fernseher Kaufberatung</a> and my project <a target="_blank" href="http://www.dachbox365.de">www.dachbox365.de</a>
